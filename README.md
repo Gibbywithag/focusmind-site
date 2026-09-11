@@ -1,4 +1,4 @@
-# FocusMind — website & privacy policy
+# FocusMind website and privacy policy
 
 The public website and privacy policy for FocusMind, an iOS planner app I
 built for people with ADHD.
